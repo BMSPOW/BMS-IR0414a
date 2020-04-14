@@ -4,7 +4,7 @@
 
     //% color="#31C7D5" weight=19
     //% icon="\uf1eb"
-declare namespace cbit_IR {
+declare namespace BMS_IR {
 
     /**
      * button pushed.
